@@ -8,11 +8,14 @@ class Check{
     private:
       std::string address;
       double version;
+      double lastVersion;
 
     public:
-      Check(std::string a, double version);
+      Check();
       std::string getAddress();
       double getVersion();
+      double getLastVersion();
+      std::string setAddress();
       bool isUpToDate();
 };
 

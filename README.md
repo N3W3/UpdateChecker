@@ -1,2 +1,2 @@
-# Script_version_check
-check if a new version of a c# script is released 
+# UpdateChecker
+Check if a new version local / repo is available
