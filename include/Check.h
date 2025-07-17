@@ -12,11 +12,12 @@ class Check{
 
     public:
       Check();
-      std::string getAddress();
+      bool isUpToDate();
+      double requestLastVersion();
       double getVersion();
       double getLastVersion();
+      std::string getAddress();
       std::string setAddress();
-      bool isUpToDate();
 };
 
 #endif

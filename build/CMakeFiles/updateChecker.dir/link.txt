@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/updateChecker.dir/link.d CMakeFiles/updateChecker.dir/src/main.cpp.o CMakeFiles/updateChecker.dir/src/Check.cpp.o -o updateChecker

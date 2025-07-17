@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/newe/Documents/dev/updateChecker/build",
+  "command": "/usr/bin/c++  -I/home/newe/Documents/dev/updateChecker/include -std=gnu++17 -o CMakeFiles/updateChecker.dir/src/main.cpp.o -c /home/newe/Documents/dev/updateChecker/src/main.cpp",
+  "file": "/home/newe/Documents/dev/updateChecker/src/main.cpp",
+  "output": "CMakeFiles/updateChecker.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/newe/Documents/dev/updateChecker/build",
+  "command": "/usr/bin/c++  -I/home/newe/Documents/dev/updateChecker/include -std=gnu++17 -o CMakeFiles/updateChecker.dir/src/Check.cpp.o -c /home/newe/Documents/dev/updateChecker/src/Check.cpp",
+  "file": "/home/newe/Documents/dev/updateChecker/src/Check.cpp",
+  "output": "CMakeFiles/updateChecker.dir/src/Check.cpp.o"
+}
+]

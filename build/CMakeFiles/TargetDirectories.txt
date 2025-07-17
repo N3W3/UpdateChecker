@@ -1,0 +1,3 @@
+/home/newe/Documents/dev/updateChecker/build/CMakeFiles/updateChecker.dir
+/home/newe/Documents/dev/updateChecker/build/CMakeFiles/edit_cache.dir
+/home/newe/Documents/dev/updateChecker/build/CMakeFiles/rebuild_cache.dir
