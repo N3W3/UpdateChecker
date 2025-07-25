@@ -17,7 +17,7 @@ class Check{
       double getVersion();
       double getLastVersion();
       std::string getAddress();
-      std::string setAddress();
-};
+      static size_t write_callback(void* contents, size_t size, size_t nmemb, std::string* output);
 
+  };
 #endif
