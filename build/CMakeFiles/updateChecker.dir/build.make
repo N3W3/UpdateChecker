@@ -112,6 +112,8 @@ updateChecker: CMakeFiles/updateChecker.dir/src/main.cpp.o
 updateChecker: CMakeFiles/updateChecker.dir/src/Check.cpp.o
 updateChecker: CMakeFiles/updateChecker.dir/build.make
 updateChecker: CMakeFiles/updateChecker.dir/compiler_depend.ts
+updateChecker: /usr/lib/libcurl.so
+updateChecker: /usr/lib/libcurl.so
 updateChecker: CMakeFiles/updateChecker.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/newe/Documents/dev/updateChecker/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable updateChecker"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/updateChecker.dir/link.txt --verbose=$(VERBOSE)
