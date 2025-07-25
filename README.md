@@ -4,9 +4,12 @@
 1. [Instroduction](#Introduction)
 2. [Features](#Features)
 3. [Installation](#Installation)
-  1. [Dependencies](#Dependencies)
+  - [Dependencies](#Dependencies)
 4. [Usage](#Usage)
-5. [Project Structure](#Project Structure)
+5. [Project Structure](#Project-Structure)
+6. [Todo](#Todo)
+7. [Licence](#Licence)
+8. [Contact](#Contact)
 
 ## Introduction 
 [Todo]
@@ -25,6 +28,18 @@
 
 ## Project Structure 
 [Todo]
+
+## Todo
+- [ ] Readme
+- [ ] doc
+- [ ] Auto update the version.txt when dev upgrade their app
+- [ ] Test
+
+## Licence 
+
+## Contact 
+
+
 
 
 
