@@ -1,14 +1,14 @@
 # UpdateChecker
 
 ## Table of contents
-1. [Instroduction](#Introduction)
+1. [Introduction](#Introduction)
 2. [Features](#Features)
 3. [Installation](#Installation)
-  - [Dependencies](#Dependencies)
+    1. [Dependencies](#Dependencies)
 4. [Usage](#Usage)
 5. [Project Structure](#Project-Structure)
 6. [Todo](#Todo)
-7. [Licence](#Licence)
+7. [License](#License)
 8. [Contact](#Contact)
 
 ## Introduction 
@@ -35,10 +35,11 @@
 - [ ] Auto update the version.txt when dev upgrade their app
 - [ ] Test
 
-## Licence 
+## License 
+[Todo]
 
 ## Contact 
-
+[Todo]
 
 
 
