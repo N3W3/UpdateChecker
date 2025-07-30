@@ -1,8 +1,7 @@
 <h1 align="center">Update Checker</h1>
 
-<h2 align="center">Table of contents</h2>
+<h2 >Table of contents</h2>
 
-<div align="center">
 
 1. [Introduction](#introduction)
 2. [Features](#features)
@@ -14,27 +13,26 @@
 7. [License](#license)
 8. [Contact](#contact)
 
-</div>
 
-<h2 id="introduction" align="center">Introduction </h2>
+<h2 id="introduction" >Introduction </h2>
 [Todo]
 
-<h2 id="features" align="center"> Features </h2>
+<h2 id="features" > Features </h2>
 [Todo]
 
-<h2 id="installation" align="center"> Installation </h2>
+<h2 id="installation" > Installation </h2>
 [Todo]
 
-<h3 id="dependencies" align="center"> Dependencies </h3>
+<h3 id="dependencies" > Dependencies </h3>
 [Todo]
 
-<h2 id="usage" align="center"> Usage </h2>
+<h2 id="usage" > Usage </h2>
 [Todo]
 
-<h2 id="project-structure" align="center"> Project Structure </h2>
+<h2 id="project-structure" > Project Structure </h2>
 [Todo]
 
-<h2 id="todo" align="center"> Todo </h2>
+<h2 id="todo" > Todo </h2>
 
 - [ ] Readme
 - [ ] doc
@@ -42,10 +40,10 @@
 - [ ] Test
 - [ ] Auto-Update
 
-<h2 id="license" align="center"> License </h2>
+<h2 id="license"> License </h2>
 [Todo]
 
-<h2 id="contact" align="center"> Contact </h2>
+<h2 id="contact"> Contact </h2>
 
 mail : newe00@protonmail.com
 
