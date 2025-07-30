@@ -1,6 +1,7 @@
 <h1 align="center">Update Checker</h1>
 
 <h2 align="center">Table of contents</h2>
+
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Installation](#installation)
