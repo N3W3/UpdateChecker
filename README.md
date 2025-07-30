@@ -15,7 +15,12 @@
 
 
 <h2 id="introduction" >Introduction </h2>
-[Todo]
+
+<p>
+Update checker is a project that provides a tool for checking updates when users launch the program.
+
+It is currently in developement.
+</p>
 
 <h2 id="features" > Features </h2>
 [Todo]
@@ -45,7 +50,7 @@
 
 <h2 id="contact"> Contact </h2>
 
-mail : newe00@protonmail.com
+mail : newe00@protonmail.com 
 
 discord : newe00
 
