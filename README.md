@@ -2,7 +2,7 @@
 
 <h2 align="center">Table of contents</h2>
 
-<p align="center">
+<div align="center">
 
 1. [Introduction](#introduction)
 2. [Features](#features)
@@ -14,7 +14,7 @@
 7. [License](#license)
 8. [Contact](#contact)
 
-</p>
+</div>
 
 <h2 id="introduction" align="center">Introduction </h2>
 [Todo]
@@ -48,6 +48,7 @@
 <h2 id="contact" align="center"> Contact </h2>
 
 mail : newe00@protonmail.com
+
 discord : newe00
 
 
