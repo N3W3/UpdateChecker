@@ -1,44 +1,45 @@
-# UpdateChecker
+<h1 align="center">Update Checker</h1>
 
-## Table of contents
-1. [Introduction](#Introduction)
-2. [Features](#Features)
-3. [Installation](#Installation)
-    1. [Dependencies](#Dependencies)
-4. [Usage](#Usage)
-5. [Project Structure](#Project-Structure)
-6. [Todo](#Todo)
-7. [License](#License)
-8. [Contact](#Contact)
+<h2 align="center">Table of contents</h2>
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Installation](#installation)
+    1. [Dependencies](#dependencies)
+4. [Usage](#usage)
+5. [Project Structure](#project-structure)
+6. [Todo](#todo)
+7. [License](#license)
+8. [Contact](#contact)
 
-## Introduction 
+<h2 id="introduction" align="center">Introduction </h2>
 [Todo]
 
-## Features 
+<h2 id="features" align="center"> Features </h2>
 [Todo]
 
-## Installation 
+<h2 id="installation" align="center"> Installation </h2>
 [Todo]
 
-### Dependencies 
+<h3 id="dependencies" align="center"> Dependencies </h3>
 [Todo]
 
-## Usage 
+<h2 id="usage" align="center"> Usage </h2>
 [Todo]
 
-## Project Structure 
+<h2 id="project-structure"> Project Structure </h2>
 [Todo]
 
-## Todo
+<h2 id="todo" align="center"> Todo </h2>
 - [ ] Readme
 - [ ] doc
 - [ ] Auto update the version.txt when dev upgrade their app
 - [ ] Test
+- [ ] Auto-Update
 
-## License 
+<h2 id="license" align="center"> License </h2>
 [Todo]
 
-## Contact 
+<h2 id="contact" align="center"> Contact </h2>
 [Todo]
 
 
