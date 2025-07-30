@@ -2,6 +2,8 @@
 
 <h2 align="center">Table of contents</h2>
 
+<p align="center">
+
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Installation](#installation)
@@ -11,6 +13,8 @@
 6. [Todo](#todo)
 7. [License](#license)
 8. [Contact](#contact)
+
+</p>
 
 <h2 id="introduction" align="center">Introduction </h2>
 [Todo]
@@ -27,10 +31,11 @@
 <h2 id="usage" align="center"> Usage </h2>
 [Todo]
 
-<h2 id="project-structure"> Project Structure </h2>
+<h2 id="project-structure" align="center"> Project Structure </h2>
 [Todo]
 
 <h2 id="todo" align="center"> Todo </h2>
+
 - [ ] Readme
 - [ ] doc
 - [ ] Auto update the version.txt when dev upgrade their app
@@ -41,8 +46,9 @@
 [Todo]
 
 <h2 id="contact" align="center"> Contact </h2>
-[Todo]
 
+mail : newe00@protonmail.com
+discord : newe00
 
 
 
